@@ -1,5 +1,5 @@
  --by Käthe
-print("Made by Tomato unu and Käthe")
+print("Made by Tomato and Käthe")
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
   local Players = game:GetService("Players")
