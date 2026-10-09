@@ -206,4 +206,4 @@ lobbyBtn.MouseButton1Click:Connect(function()
    end
  end)
 end)
-Print("🇩🇪welovegermanyofc🇪🇺)
+print("🇩🇪welovegermanyofc🇪🇺")
