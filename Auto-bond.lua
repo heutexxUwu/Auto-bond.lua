@@ -1,4 +1,5 @@
- --by Käthe
+--Plzzzz give us credit:c
+--by Käthe
 print("Made by Tomato and Käthe")
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
